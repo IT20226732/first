@@ -1,0 +1,263 @@
+/*************************** STARS ****************************/
+#stars {
+	background: #425169 url('../img/back3.png') top center;
+	width: 100%;
+	height: 2000px;
+	position: fixed;
+	top: 0;
+	z-index: 10;
+}
+
+/*************************** IMAGES ****************************/
+#images {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 200;
+}
+
+#images img {
+	padding-top: 50px;
+}
+
+/*#img-tree{
+	position: absolute;
+	top: -10px;
+	left: 1%;
+}
+
+#img-cloud1{
+	position: absolute;
+	top: 0px;
+	left: 50%;
+}
+
+#img-cloud2{
+	position: absolute;
+	top: 0px;
+	left: 15%;
+}
+
+#img-cloud3{
+	position: absolute;
+	top: 0px;
+	left: 10%;
+}
+
+#img-cloud4{
+	position: absolute;
+	top: 0px;
+	left: 10%;
+}
+
+#img-cloud5{
+	position: absolute;
+	top: 1500px;
+	left: 10%;
+}
+
+#img-cloud6{
+	position: absolute;
+	top: 940px;
+	left: 25%;
+}
+
+#img-cloud7{
+	position: absolute;
+	top: 600px;
+	left: 40%;
+}
+
+#img-cloud8{
+	position: absolute;
+	top: 700px;
+	left: 40%;
+}
+
+#img-cloud9{
+	position: absolute;
+	top: 700px;
+	left: 0%;
+}
+
+#img-cloud10{
+	position: absolute;
+	top: 1150px;
+	left: 0%;
+}
+
+#img-man{
+	position: absolute;
+	top: 122px;
+	left: 5%;
+}
+
+#img-bullet{
+	position: absolute;
+	bottom: 10px;
+	left: 30%;
+}
+
+#black{
+	position: absolute;
+	top: 0px;
+	width: 100%;
+}
+
+#img-new1 {
+	position: absolute;
+	top: 50px;
+	left: 0%;
+}
+
+#img-new2 {
+	position: absolute;
+	top: 10px;
+	left: 0%;
+}
+
+#img-new3 {
+	position: absolute;
+	top: 15px;
+	left: 0%;
+}
+
+#img-new4 {
+	position: absolute;
+	top: 25px;
+	left: 90%;
+}
+
+#img-new5 {
+	position: absolute;
+	top: 20px;
+	left: 50%;
+}
+
+#img-new1 {
+	position: absolute;
+	top: 10px;
+	left: 0%;
+}
+
+#img-new6 {
+	position: absolute;
+	top: 400px;
+	left: 0%;
+}
+
+#img-new7 {
+	position: absolute;
+	top: 400px;
+	left: 0%;
+}
+
+#img-new8 {
+	position: absolute;
+	top: 400px;
+	left: 28%;
+}
+
+#img-new9 {
+	position: absolute;
+	top: 400px;
+	left: 0%;
+}*/
+
+#img-moon {
+	position: absolute;
+	top: 200px;
+	left: 60%;
+}
+
+
+#img-rocket {
+	position: absolute;
+	top: 130px;
+	left: 28%;
+}
+
+#img-megam1{
+	position: absolute;
+	top: 0px;
+	left: 5%;
+}
+
+#img-megam2{
+	position: absolute;
+	top: 300px;
+	left: 100%;
+}
+
+#img-astronut1{
+	position: absolute;
+	top: 100px;
+	left: 20%;
+}
+
+#img-astronut2{
+	position: absolute;
+	top: 50px;
+	left: 35%;
+}
+
+#img-planet1{
+	position: absolute;
+	top: 170px;
+	left: 50%;
+}
+
+#img-planet2{
+	position: absolute;
+	top: 160px;
+	left: -20%;
+}
+
+#img-kodu{
+	position: absolute;
+	top: 200px;
+	left: 20%;
+}
+
+#img-star{
+	position: absolute;
+	top: 200px;
+	left: 28%;
+}
+
+#img-ufo {
+	position: absolute;
+	top: 150px;
+	left: 10%;
+}
+
+
+
+/*************************** CONTENT ****************************/
+#content {
+	color: #fff;
+	position: relative;
+	width: 0px;
+	z-index: 50;
+}
+
+#content article {
+	padding-top: 10px;
+	width: 35px;
+	top: 1200px;
+}
+
+#saturn {
+	position: absolute;
+	
+	padding-bottom: 800px;
+}
+
+/*************************** EARTH ****************************/
+#earth {
+	width: 100%;
+	position: relative;
+	text-align: center;
+	z-index: 900;
+}
+
